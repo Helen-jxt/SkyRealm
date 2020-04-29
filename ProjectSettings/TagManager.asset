@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Life
+  - DarkCloud
+  - Saw
+  - Enemy
+  - Turn
+  - Clouds
+  - BreakCloud
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - player
+  - cloud
+  - 
+  - Ceil
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: cloud
+    uniqueID: 3842553131
+    locked: 0
+  - name: player
+    uniqueID: 1219595255
+    locked: 0
+  - name: Enemy
+    uniqueID: 2795870139
+    locked: 0
+  - name: Ceil
+    uniqueID: 1179753769
+    locked: 0
